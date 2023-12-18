@@ -4,4 +4,4 @@ Here is the source code and related documents for paper "Identifying Radiogenomi
 
 Pipeline of study is shown as follow.
 
-[Image text]!(https://github.com/FORRESTHUACHEN/Siamese_Neural_Network_based_Brest_cancer_Radiogenomic/blob/main/Figure%201.png)
+![Image text](https://github.com/FORRESTHUACHEN/Siamese_Neural_Network_based_Brest_cancer_Radiogenomic/blob/main/Figure%201.png)
